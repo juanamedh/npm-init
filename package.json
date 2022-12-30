@@ -12,5 +12,20 @@
   ],
   "author": "Juan Amedh Sanchez <juanamedh@gmail.com>",
   "license": "MIT",
-  "description": ""
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanamedh/npm-init.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juanamedh/npm-init/issues"
+  },
+  "homepage": "https://github.com/juanamedh/npm-init#readme",
+  "description": "",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.30.0"
+  }
 }
